@@ -1,0 +1,2 @@
+Hello this is the new file created in a folder which is added in branch.
+Next step is to check with master branch and confirm that this file and folder is not added there.
