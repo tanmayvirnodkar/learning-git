@@ -1,1 +1,2 @@
 This is a text file which is created by owner of the project.
+Adding few lines to use message features available for commit option.
