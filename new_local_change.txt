@@ -1,1 +1,7 @@
 SO this is the local change that we want to do and see what notification is given by git bash for the local as well as remote repo.
+As you are suggesting I will add few lines to describe what i will do :-
+
+Agenda:-
+1) We want to see if there is any notification given by local git bash if we edit a file locally and this changes are missing from remote repo.
+2) Can we request for review and merge for a forked branch and that branch to be added in the Owners Repo.
+3) And again to check if we get any notification from local git bash after we add the local branch into owners repo.
