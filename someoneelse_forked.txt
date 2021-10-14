@@ -1,0 +1,3 @@
+Consider a case where some one else has cloned your forked repo and now adding a file into the master branch which is uptodate with remote master branch.
+1) need to check if you get any notification in local git bash.
+2) Pull the changed master branch and again change it locally and try to push it.
